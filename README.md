@@ -1,3 +1,9 @@
+<div align="center">
+
+![](thumbnail.png)
+  
+</div>
+
 <h1 align="center">Hi there, I'm Raiyan! 👋</h1>
 
 I'm a Computer Engineering student at the University of Waterloo with a passion for machine learning and artificial intelligence. I'm enthusiastic about exploring innovative technologies and solving real-world problems through coding and design.
