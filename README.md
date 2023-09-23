@@ -12,8 +12,6 @@ I am currently interested in:
 * 🚀 Exploring the Frontiers of AI and Machine Learning
 * 🚴‍♂️ Balancing Tech with Fitness and Health
 * 👾 Gaming Tech and Virtual Reality
-* 🎙️ Exploring Voice Assistants and Speech Recognition
-* 🌌 Space Exploration: Analyzing Astronomical Images
 
 <h2 align="center">🌐Socials</h2>
 <div align="center">
